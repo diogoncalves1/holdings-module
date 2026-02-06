@@ -1,0 +1,11 @@
+{
+    "name": "Holdings",
+    "alias": "holdings",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Holdings\\Providers\\HoldingsServiceProvider"
+    ],
+    "files": []
+}
